@@ -1,0 +1,28 @@
+name: Quoteslist
+favicon: null
+layout_spectrum: 0.11095289746299386
+typography_spectrum: 0.5168016124516726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5159962540492415
+  lightness: 0.8514940701425076
+  saturation: 0.35130769992247224
+  rhythmicContrast: 0.5989771278109401
+purpose: []
