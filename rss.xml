@@ -4,8 +4,15 @@
         <description><![CDATA[Quoteslist]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 13:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 20:54:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life]]></title>
+            <description><![CDATA[<article><h1>Life</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16a53ab2-f92e-4039-987b-6f84579fac2a.png"></article>]]></description>
+            <link>https://thegrid.ai/quoteslist/life/index.html</link>
+            <guid isPermaLink="false">7b973cdb-f42b-48c8-b1ed-9bb58b475c29</guid>
+            <pubDate>Wed, 30 Dec 2015 20:53:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9aaf111-028f-4ab2-ae91-c46ec0cf54eb.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/quoteslist/ac1ebada-3307-404e-8728-2cdcb2e225f7/index.html</link>
             <guid isPermaLink="false">ac1ebada-3307-404e-8728-2cdcb2e225f7</guid>
             <pubDate>Tue, 08 Dec 2015 06:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People who post inspirational quotes are less intelligent]]></title>
-            <description><![CDATA[<article><h1>People who post inspirational quotes are less intelligent</h1><p>A new scientific study has found that people who enjoy posting "inspirational" statements - eg. that shit that clogs up your Facebook feed every now and then - tend to have lower levels of intelligence. The research, which took place at the University of Waterloo in Canada, examined how receptivity to "pseudo-profound bullshit" related to a person's intellectual level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e3c499112943b1d7851da9ecc4f897c7833ba71.jpg"></article>]]></description>
-            <link>http://www.dazeddigital.com/artsandculture/article/28731/1/people-who-post-inspirational-quotes-aren-t-very-smart</link>
-            <guid isPermaLink="false">fb5fbac2-c656-415e-ac7f-eae6d949392a</guid>
-            <pubDate>Mon, 07 Dec 2015 13:40:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
