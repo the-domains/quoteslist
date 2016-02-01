@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Quoteslist]]></title>
-        <description><![CDATA[Quoteslist]]></description>
+        <title><![CDATA[A collection of things I find inspiring]]></title>
+        <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 12:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 11:08:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bryan Cranston's Advice to Aspiring Actors]]></title>
+            <description><![CDATA[<article><h1>Bryan Cranston's Advice to Aspiring Actors</h1><p>At last year's Academy new member reception, Bryan Cranston shared his advice to aspiring actors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/932f1696b21177ecce3ec96cc53f5f86001b815c.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=v1WiCGq-PcY</link>
+            <guid isPermaLink="false">f2095c11-4249-4c24-a25f-d4d392018994</guid>
+            <pubDate>Mon, 01 Feb 2016 11:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5a8943e-2238-4500-bb86-f0c172178495.png">]]></description>
+            <link>https://thegrid.ai/quoteslist/b43a163c-3a71-472a-9ea7-9d12ad638f31/index.html</link>
+            <guid isPermaLink="false">b43a163c-3a71-472a-9ea7-9d12ad638f31</guid>
+            <pubDate>Mon, 11 Jan 2016 12:57:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f48c6265-e826-4608-958f-5188087a46b8.png">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/quoteslist/e16dae4d-2434-4471-b898-1674ffb89852/index.html</link>
             <guid isPermaLink="false">e16dae4d-2434-4471-b898-1674ffb89852</guid>
             <pubDate>Wed, 23 Dec 2015 13:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10671487_989561047736164_6027159768077534329_n.jpg?oh=7dd6b3dae6c289a4baa55d52f959f84e&oe=5716C505">]]></description>
-            <link>https://thegrid.ai/quoteslist/0928d0a8-8319-4682-8cb5-2c1886e57155/index.html</link>
-            <guid isPermaLink="false">0928d0a8-8319-4682-8cb5-2c1886e57155</guid>
-            <pubDate>Sun, 13 Dec 2015 02:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e509cd9-d598-4f4d-86aa-ad09421e1eb4.png">]]></description>
-            <link>https://thegrid.ai/quoteslist/b81603c6-fa4c-40ee-8a5a-e18031d3693e/index.html</link>
-            <guid isPermaLink="false">b81603c6-fa4c-40ee-8a5a-e18031d3693e</guid>
-            <pubDate>Tue, 08 Dec 2015 06:10:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
