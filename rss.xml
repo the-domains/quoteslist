@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 07:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 07:03:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Audiobooks for Surviving When Surviving is Not Super Fun for You]]></title>
+            <description><![CDATA[<article><h1>5 Audiobooks for Surviving When Surviving is Not Super Fun for You</h1><p>To say Augusten Burroughs' life is a shitshow would be underselling it. What is beautiful about Augusten Buroughs, though, is how he's come to a place in understanding all that has happened to him and all that he has made happen to himself that he can write this wonderful gift of a book.</p><img src="https://d262ilb51hltx0.cloudfront.net/max/600/1*kAkmVK4MyYwN9OClryNgHA.jpeg"></article>]]></description>
+            <link>https://medium.com/@girlziplocked/5-audiobooks-for-surviving-when-it-s-not-super-fun-for-you-4971dd523d09</link>
+            <guid isPermaLink="false">e6e6351a-d9d8-47c5-b1ea-f808e2da3994</guid>
+            <pubDate>Tue, 02 Feb 2016 07:02:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE VOID]]></title>
             <description><![CDATA[<article><h1>THE VOID</h1><p>At THE VOID you will walk into new dimensions and experience worlds without limits. From fighting intergalactic wars on alien planets, to casting spells in the darkest of dungeons, THE VOID presents the future of entertainment. Only limited by imagination, our advanced Virtual-Reality technologies allow you to see, move, and feel our digital worlds in a completely immersive and realistic way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80a9332fb1ed82f165fb2b070bbf27b41bad5a35.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/quoteslist/love-hurts/index.html</link>
             <guid isPermaLink="false">31978a01-09fc-4ef5-828d-e4c0d225732d</guid>
             <pubDate>Wed, 30 Dec 2015 20:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life]]></title>
-            <description><![CDATA[<article><h1>Life</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27c5bec9492f7bd9a6c8cfc61ed28c525a5b4c68.png"></article>]]></description>
-            <link>https://thegrid.ai/quoteslist/life/index.html</link>
-            <guid isPermaLink="false">7b973cdb-f42b-48c8-b1ed-9bb58b475c29</guid>
-            <pubDate>Wed, 30 Dec 2015 20:53:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
