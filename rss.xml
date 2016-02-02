@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 23:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 07:03:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE VOID]]></title>
+            <description><![CDATA[<article><h1>THE VOID</h1><p>At THE VOID you will walk into new dimensions and experience worlds without limits. From fighting intergalactic wars on alien planets, to casting spells in the darkest of dungeons, THE VOID presents the future of entertainment. Only limited by imagination, our advanced Virtual-Reality technologies allow you to see, move, and feel our digital worlds in a completely immersive and realistic way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80a9332fb1ed82f165fb2b070bbf27b41bad5a35.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=cML814JD09g</link>
+            <guid isPermaLink="false">95621f53-9e45-4297-bc8a-6589d128123c</guid>
+            <pubDate>Tue, 02 Feb 2016 07:02:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/ySSeIMu.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/quoteslist/life/index.html</link>
             <guid isPermaLink="false">7b973cdb-f42b-48c8-b1ed-9bb58b475c29</guid>
             <pubDate>Wed, 30 Dec 2015 20:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9aaf111-028f-4ab2-ae91-c46ec0cf54eb.png">]]></description>
-            <link>https://thegrid.ai/quoteslist/368b695a-4cd8-4b4d-a089-968e385d545d/index.html</link>
-            <guid isPermaLink="false">368b695a-4cd8-4b4d-a089-968e385d545d</guid>
-            <pubDate>Wed, 23 Dec 2015 13:40:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
