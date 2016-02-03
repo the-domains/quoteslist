@@ -4,15 +4,8 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 10:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 10:30:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How To Achieve Your Goals In 6 Easy Steps - Life Learning]]></title>
-            <description><![CDATA[<article><h1>How To Achieve Your Goals In 6 Easy Steps - Life Learning</h1><p>How To Achieve Your Goals In 6 Easy Steps - Life Learning - Medium</p></article>]]></description>
-            <link>https://medium.com/life-learning/how-to-achieve-your-goals-in-6-easy-steps-4900588f251b</link>
-            <guid isPermaLink="false">eab56885-138c-45a8-b500-5e7cb9f2f463</guid>
-            <pubDate>Wed, 03 Feb 2016 10:29:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a551caea17f96e7587ad4f6b9cf89c23424b632a.jpg" alt="" title="">]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=dy3RTFFhSYs</link>
             <guid isPermaLink="false">ed0ad804-ca3e-4c15-b014-db2f77e4a990</guid>
             <pubDate>Wed, 03 Feb 2016 10:29:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 Career Moves You Should Master in 2016]]></title>
+            <description><![CDATA[<article><h1>8 Career Moves You Should Master in 2016</h1><p>At CareerHMO, we work with thousands of people looking to improve their careers. Whether it's finding a new job, getting a promotion, or even changing career directions, we study what works and then share the best practices with our members. We're constantly updating our coaching, community, and content to reflect the shifts we see in the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17b15a5e859339a63193d6ef4c658fa38ca3af2f.jpg"></article>]]></description>
+            <link>http://www.inc.com/jt-odonnell/-8-career-moves-to-make-in-2016.html</link>
+            <guid isPermaLink="false">52131797-736f-4663-8144-15757f561a3d</guid>
+            <pubDate>Wed, 03 Feb 2016 10:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
