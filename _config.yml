@@ -1,20 +1,7 @@
-title: A collection of things I find inspiring
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 1
+name: Inspiration Journal
 favicon: null
-name: Quoteslist
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.5
+typography_spectrum: 0.3659574
 collections:
   - index:
       navigable: true
@@ -27,15 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: A collection of things I find inspiring
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5159962540492415
-  saturation: 0.3513076999224722
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+  brandStrength: 0.5159962540492415
   lightness: 0.8514940701425076
+  saturation: 0.3513076999224722
   rhythmicContrast: 0.5989771278109401
-typography_spectrum: 0.3659574
+purpose: []
