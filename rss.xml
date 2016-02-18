@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 03:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 10:16:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews - TIME.com]]></title>
+            <description><![CDATA[<article><h1>Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews - TIME.com</h1><p>Why Do Women Live Longer Than Men? - TIME</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aad7f1e328153d9659b45eef16f17c9ef7dbd8aa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quoteslist/why-do-women-live-longer-than-men-time/index.html</link>
+            <guid isPermaLink="false">832328c4-5624-4bc2-8588-1a74aa8ea4da</guid>
+            <pubDate>Thu, 18 Feb 2016 10:15:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Dark Matter</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.businessinsider.com/things-never-put-on-your-resume-2014-6?op=1&amp;utm_content=buffer5f71d&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">c61f7b79-2f27-4d05-8109-2edd00dc4719</guid>
             <pubDate>Wed, 03 Feb 2016 23:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mary Cagle is creating Comics]]></title>
-            <description><![CDATA[<article><h1>Mary Cagle is creating Comics</h1><p>Patreon is empowering a new generation of creators. Support and engage with artists and creators as they live out their passions!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/701e3f7ec3a01103eb8ba62cd70b3d1eb08fa3ea.jpg"></article>]]></description>
-            <link>https://www.patreon.com/cubewatermelon?ty=h</link>
-            <guid isPermaLink="false">39a5fb58-1474-4551-a0e3-fa5cce9a1a8b</guid>
-            <pubDate>Wed, 03 Feb 2016 23:46:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
