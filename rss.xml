@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 04:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 04:10:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On an Ongoing Learning Journey]]></title>
+            <description><![CDATA[<article><h1>On an Ongoing Learning Journey</h1><p>Melissa Milloway is an instructional designer for AMZL Learning, where she specializes in developing e-learning and virtual instructor-led training. As an accomplished learning leader who is always learning herself, she was selected for Elliot Masie's 30 Under 30 program in 2014. What led you to this career?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b08e64aaa1438b883b977ac8725a966d8be7957b.png"></article>]]></description>
+            <link>https://www.td.org/Publications/Magazines/TD/TD-Archive/2016/03/On-An-Ongoing-Learning-Journey</link>
+            <guid isPermaLink="false">a7a052e6-02ee-41f2-90ac-841a8ebce9f3</guid>
+            <pubDate>Sun, 06 Mar 2016 04:08:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dads House]]></title>
             <description><![CDATA[<article><h1>Dads House</h1><p>Hi DIY, I'm back, and this time I built a house with my dad! (106 images)</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/quoteslist/d45b9f98-0a78-4d16-bd27-852ac0101ea7/index.html</link>
             <guid isPermaLink="false">d45b9f98-0a78-4d16-bd27-852ac0101ea7</guid>
             <pubDate>Tue, 23 Feb 2016 05:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moz Content - Audit, Measure, and Discover Relevant Content]]></title>
-            <description><![CDATA[<article><h1>Moz Content - Audit, Measure, and Discover Relevant Content</h1><p>Moz Content automatically audits and sorts content according to topic, type, and author so you know which tactics are more effective at engaging your target audience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61b41c84ac1a425151e1cdbfa235793ffd60aeb8.png"></article>]]></description>
-            <link>https://moz.com/content/</link>
-            <guid isPermaLink="false">ea921509-c73a-44ea-b7bb-cd2e33eb3cb4</guid>
-            <pubDate>Tue, 09 Feb 2016 00:59:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
