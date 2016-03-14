@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 07:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 13:09:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Podium]]></title>
+            <description><![CDATA[<article><h1>Podium</h1><p>Learn now with our collection of six free courses, then take the exam to get certified.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7506a5f77c6da97b92fb66083d7a6decd9aff5f.png"></article>]]></description>
+            <link>https://education.hootsuite.com/collections</link>
+            <guid isPermaLink="false">5f72966a-b31e-4ed7-81f6-12f62e770088</guid>
+            <pubDate>Mon, 14 Mar 2016 13:09:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://qph.is.quoracdn.net/main-qimg-339270fb5d13db49f2c7648e0e6c098e?convert_to_webp=true">]]></description>
@@ -68,13 +75,6 @@
             <link>http://imgur.com/a/mB5q7</link>
             <guid isPermaLink="false">e6c61ab1-809c-4029-9fca-02de0501499e</guid>
             <pubDate>Sun, 06 Mar 2016 04:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[580: That's One Way to Do It]]></title>
-            <description><![CDATA[<article><h1>580: That's One Way to Do It</h1><p>Forget the easy way. This week, stories about people who come up with very innovative...and unusual...solutions to their problems. Including the story of a young voter who defies political categorization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3f3be7cd32aea1db127e1e4661f2c204004cffa.jpg"></article>]]></description>
-            <link>http://m.thisamericanlife.org/radio-archives/episode/580/thats-one-way-to-do-it</link>
-            <guid isPermaLink="false">548d6c1b-972e-4a71-b705-34384ce5ef7f</guid>
-            <pubDate>Tue, 23 Feb 2016 04:44:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
