@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 13:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 14:08:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Epic slide deck from former Yahoo board member lays out the future of tech and media]]></title>
+            <description><![CDATA[<article><h1>Epic slide deck from former Yahoo board member lays out the future of tech and media</h1><p>On Tuesday, top business-strategist Michael Wolf gave a massive presentation on the future of tech and media in 2016 at The Wall Street Journal's conference. He shared that the average American spends more time on tech and media then sleeping, and predicts that messaging will blow past social networking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aa8a812e0c8d4940879caf52bee831e81040cb0.jpg"></article>]]></description>
+            <link>http://uk.businessinsider.com/michael-wolf-predicts-what-will-happen-in-the-tech-industry-in-2016-2015-10</link>
+            <guid isPermaLink="false">1164b7d3-aa70-4d24-8f0c-6c952be53c53</guid>
+            <pubDate>Mon, 14 Mar 2016 14:07:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Podium]]></title>
             <description><![CDATA[<article><h1>Podium</h1><p>Learn now with our collection of six free courses, then take the exam to get certified.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7506a5f77c6da97b92fb66083d7a6decd9aff5f.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.td.org/Publications/Magazines/TD/TD-Archive/2016/03/On-An-Ongoing-Learning-Journey</link>
             <guid isPermaLink="false">a7a052e6-02ee-41f2-90ac-841a8ebce9f3</guid>
             <pubDate>Sun, 06 Mar 2016 04:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dads House]]></title>
-            <description><![CDATA[<article><h1>Dads House</h1><p>Hi DIY, I'm back, and this time I built a house with my dad! (106 images)</p></article>]]></description>
-            <link>http://imgur.com/a/mB5q7</link>
-            <guid isPermaLink="false">e6c61ab1-809c-4029-9fca-02de0501499e</guid>
-            <pubDate>Sun, 06 Mar 2016 04:08:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
