@@ -2,19 +2,21 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-22T00:25:38.213Z'
-dateModified: '2016-05-21T13:11:14.836Z'
+description: "There's something we lose when we get older. What used to fill us with a sense of joy and wonder gets lost in a sea of adulthood practicalities. That's why it's so important to still imagine and dream. "
+datePublished: '2016-05-22T00:49:08.515Z'
+dateModified: '2016-05-22T00:48:38.880Z'
 title: Growing up
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-22-growing-up.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-growing-up.md
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df4b6d64-680d-407b-86bd-a0f3695bcea8.jpg)
+There's something we lose when we get older. What used to fill us with a sense of joy and wonder gets lost in a sea of adulthood practicalities. That's why it's so important to still imagine and dream. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c93f68c4717f5bdf02e9122da49f34fbe74d0864.jpg)
