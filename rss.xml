@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 11:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 11:29:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Research has uncovered the precise age at which we start losing friends]]></title>
+            <description><![CDATA[<article><h1>Research has uncovered the precise age at which we start losing friends</h1><p>Holding onto friendship is hard, once families and more-demanding careers begin to weigh. But researchers have made a stab at pin-pointing the age at which our social circles start to contract, and it's earlier than you might think: 25 is peak friend for both men and women, according to a study from the Aalto University School of Science...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c44c32c58a3255d93b774b2ff89c6791e95c0824.jpg"></article>]]></description>
+            <link>http://qz.com/689017/research-has-uncovered-the-precise-age-at-which-we-start-losing-friends/?utm_source=atlfb</link>
+            <guid isPermaLink="false">6180fc35-6623-42a8-ade9-47d28d4573ae</guid>
+            <pubDate>Mon, 23 May 2016 11:29:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Language Mountain]]></title>
             <description><![CDATA[<article><h1>The Language Mountain</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/163ee9797e5a48e33b9971f6d10b0aac9d5fd240.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://moviepilot.com/posts/3922664</link>
             <guid isPermaLink="false">10de7823-fba5-4d25-b2a2-2133bf7d4725</guid>
             <pubDate>Fri, 20 May 2016 02:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn more about Books | Bill Gates]]></title>
-            <description><![CDATA[<article><h1>Learn more about Books | Bill Gates</h1><p>Books</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10402e59ff3676c34fe74ca2f64e1eb0fcbc962d.png"></article>]]></description>
-            <link>https://www.gatesnotes.com/Books</link>
-            <guid isPermaLink="false">54d8c3f0-3f3e-45a8-ac2c-469af974e473</guid>
-            <pubDate>Wed, 18 May 2016 05:26:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
