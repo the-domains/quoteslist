@@ -4,8 +4,15 @@
         <description><![CDATA[A collection of things I find inspiring]]></description>
         <link>https://thegrid.ai/quoteslist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 00:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 11:29:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quoteslist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Language Mountain]]></title>
+            <description><![CDATA[<article><h1>The Language Mountain</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/163ee9797e5a48e33b9971f6d10b0aac9d5fd240.jpg"></article>]]></description>
+            <link>http://www.bitesizedlanguages.com/app/webroot/attachments/2013/04/language-mountain.jpg</link>
+            <guid isPermaLink="false">3c6f72ba-bced-4221-9bff-812188428d25</guid>
+            <pubDate>Mon, 23 May 2016 11:29:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learn more about Books | Bill Gates]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f20aa329-0cfc-45a8-bc34-e8757e0ab024.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.gatesnotes.com/Books</link>
             <guid isPermaLink="false">54d8c3f0-3f3e-45a8-ac2c-469af974e473</guid>
             <pubDate>Wed, 18 May 2016 05:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Borrows From Bernie Sanders's Playbook to Woo Democrats]]></title>
-            <description><![CDATA[<article><h1>Donald Trump Borrows From Bernie Sanders's Playbook to Woo Democrats</h1><p>But Mr. Trump, who has also made attacks on illegal immigrants central to his campaign while vowing to protect Social Security and Medicare, is plainly going to run as more of a Sanders-style populist than as a conservative.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b212c3bce7c23e9d6fb8b7018e2df74b1f2da553.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/05/18/us/politics/donald-trump-bernie-sanders-campaign.html?_r=0</link>
-            <guid isPermaLink="false">c3c0d8e3-4db5-4098-902f-fbc39b147b9e</guid>
-            <pubDate>Wed, 18 May 2016 05:25:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
